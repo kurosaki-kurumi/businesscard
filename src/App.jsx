@@ -1,4 +1,5 @@
 import { useState, useMemo } from 'react'
+import { CopiableString } from './components/CopiableString'
 import cardData from './data/cards.json'
 import logo from './assets/rogo.png'
 import './index.css'
@@ -55,7 +56,7 @@ function App() {
                 <h2 className="user-name">{card.name}</h2>
                 <span className="genre-badge">{card.genre}</span>
               </div>
-              <p className="user-id">{card.userId}</p>
+              <div className="user-id"><CopiableString text={card.userId} /></div>
             </div>
           </article>
         ))}
