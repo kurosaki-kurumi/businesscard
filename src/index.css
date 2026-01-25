@@ -238,16 +238,7 @@ body {
   opacity: 0.8;
   padding: 2px 8px;
   border-radius: 4px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 8px;
-}
-
-.user-id .copy-button {
-  background-color: transparent;
-  border: none;
-  line-height: 0;
+  display: inline-block;
 }
 
 /* ジャンルタグ（バッジ風） */
@@ -353,4 +344,3 @@ body {
     padding: 2rem 1rem;
   }
 }
-
