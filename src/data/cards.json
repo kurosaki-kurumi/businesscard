@@ -1,0 +1,986 @@
+[
+    {
+        "id": "1",
+        "name": "マスカット",
+        "userId": "ZEMQCZDF",
+        "genre": "面白い系",
+        "image": "src/assets/cards/ZEMQCZDF.png",
+        "description": "まりちゃん監視中"
+    },
+    {
+        "id": "2",
+        "name": "みこ茶P",
+        "userId": "ZDGV5XE9",
+        "genre": "面白い系",
+        "image": "src/assets/cards/ZDGV5XE9.png",
+        "description": "エンジョイ勢でも自慢したい。ジャンルは悩みましたが右上のタイトルが面白く仕上がったので面白い系に入れました。"
+    },
+    {
+        "id": "3",
+        "name": "しゃわしゃわ",
+        "userId": "TN63SG93",
+        "genre": "面白い系",
+        "image": "src/assets/cards/TN63SG93.png",
+        "description": "後ろの佑芽ちゃんの動きに特にこだわりました!!"
+    },
+    {
+        "id": "4",
+        "name": "文月",
+        "userId": "RN7YRNU6",
+        "genre": "面白い系",
+        "image": "src/assets/cards/RN7YRNU6.png",
+        "description": "4番の花海に回すとマズい\n（野球を知らないと伝わりづらいですが、秦谷監督はリプレイ検証を要求するジェスチャーをしています）"
+    },
+    {
+        "id": "5",
+        "name": "いろり亭氷河",
+        "userId": "P9BNJ2EY",
+        "genre": "面白い系",
+        "image": "src/assets/cards/P9BNJ2EY.png",
+        "description": "ことねの指のマークを見て下さい。ことね可愛い"
+    },
+    {
+        "id": "6",
+        "name": "白米",
+        "userId": "LKXMZFD2",
+        "genre": "面白い系",
+        "image": "src/assets/cards/LKXMZFD2.png",
+        "description": "配信を見ていて思いついたものです！"
+    },
+    {
+        "id": "7",
+        "name": "たこふぐくま",
+        "userId": "KKM8SUVY",
+        "genre": "面白い系",
+        "image": "src/assets/cards/KKM8SUVY.png",
+        "description": "清夏&会長Pです！邦夫が好きなので邦夫背景を使いながらこれまで取った称号と参戦したライブ称号を付けています！N.I.Aマスランキングの称号で｢P｣を作りました！"
+    },
+    {
+        "id": "8",
+        "name": "tossie",
+        "userId": "GQQ829QZ",
+        "genre": "面白い系",
+        "image": "src/assets/cards/GQQ829QZ.png",
+        "description": "名刺鯖からの刺客です。\n美鈴の独占欲を表してます。"
+    },
+    {
+        "id": "9",
+        "name": "じげん",
+        "userId": "C5J7LXF2",
+        "genre": "面白い系",
+        "image": "src/assets/cards/C5J7LXF2.png",
+        "description": "アイドルをわかりやすくグラフにしました。コンポーザー陣を含めるとナユタン星人さんが最強です。"
+    },
+    {
+        "id": "10",
+        "name": "ti",
+        "userId": "ACY9DUQT",
+        "genre": "面白い系",
+        "image": "src/assets/cards/ACY9DUQT.png",
+        "description": "だって食べたかったから…"
+    },
+    {
+        "id": "11",
+        "name": "iwapei",
+        "userId": "5B3MJWY2",
+        "genre": "面白い系",
+        "image": "src/assets/cards/5B3MJWY2.png",
+        "description": "この名刺は3回目に作った名刺で、制作時間は7時間強の力作です！"
+    },
+    {
+        "id": "12",
+        "name": "ほうたい",
+        "userId": "2FSU7TES",
+        "genre": "面白い系",
+        "image": "src/assets/cards/2FSU7TES.png",
+        "description": "みんなも使ってね"
+    },
+    {
+        "id": "13",
+        "name": "麻倉ましろ",
+        "userId": "X7UJDFG2",
+        "genre": "動く系",
+        "image": "src/assets/cards/X7UJDFG2.png",
+        "description": "くるみちゃん！(今日だけ)思想の強いましろです(๑•̀ㅁ•́ฅ✨\nましくる！ことみす！よろしくお願いいたしますm(_ _)m\n(人数が多い時は無理に採用しないで大丈夫です(^-^))"
+    },
+    {
+        "id": "14",
+        "name": "ハル",
+        "userId": "WZJPRUF9",
+        "genre": "動く系",
+        "image": "src/assets/cards/WZJPRUF9.png",
+        "description": "謹賀新年"
+    },
+    {
+        "id": "15",
+        "name": "PPP",
+        "userId": "V9CRUK53",
+        "genre": "動く系",
+        "image": "src/assets/cards/V9CRUK53.png",
+        "description": "頑張ったので見ていただけると嬉しいです！"
+    },
+    {
+        "id": "16",
+        "name": "みるき〜",
+        "userId": "SSK4WMRW",
+        "genre": "動く系",
+        "image": "src/assets/cards/SSK4WMRW.png",
+        "description": "先程送れてるどうか分からなかったので、もう一度送ってます。\nデレステ好きなので、デレステ風にしてみました！ぜひよければ見てほしいです！"
+    },
+    {
+        "id": "17",
+        "name": "俺くん",
+        "userId": "RTQDUAGK",
+        "genre": "動く系",
+        "image": "src/assets/cards/RTQDUAGK.png",
+        "description": "ところで俺の名刺を見てくれ、こいつをどう思う？"
+    },
+    {
+        "id": "18",
+        "name": "OREO",
+        "userId": "QPTAWPXV",
+        "genre": "動く系",
+        "image": "src/assets/cards/QPTAWPXV.png",
+        "description": "サンフェーデッドみんな聴いてね"
+    },
+    {
+        "id": "19",
+        "name": "山田水族館",
+        "userId": "QHRAW7AC",
+        "genre": "動く系",
+        "image": "src/assets/cards/QHRAW7AC.png",
+        "description": "以前作ったものです"
+    },
+    {
+        "id": "20",
+        "name": "ねむい",
+        "userId": "MHAJK9H3",
+        "genre": "動く系",
+        "image": "src/assets/cards/MHAJK9H3.png",
+        "description": "千奈ちゃんと広ちゃんの可愛いを詰め込みました！"
+    },
+    {
+        "id": "21",
+        "name": "翠匣タルタ",
+        "userId": "LFC2J3Z3",
+        "genre": "動く系",
+        "image": "src/assets/cards/LFC2J3Z3.png",
+        "description": "名刺コラボで作った初めてのカスタム名刺です！\nアイマスクラッパー篠澤広が最終決戦で邦夫びーむを放ったあの名シーン、涙無しには見られませんでした……；；\n\n「邦夫見つめる　そっと唱える――」"
+    },
+    {
+        "id": "22",
+        "name": "蓬",
+        "userId": "JKGBSVV6",
+        "genre": "動く系",
+        "image": "src/assets/cards/JKGBSVV6.png",
+        "description": "苦手だから完成にリアル1週間かかった(一応頑張りました)"
+    },
+    {
+        "id": "23",
+        "name": "あみゃあみゃ",
+        "userId": "H8Z72SAK",
+        "genre": "動く系",
+        "image": "src/assets/cards/H8Z72SAK.png",
+        "description": "名刺が1枚しか送れないみたいなので、複数枚入れておきました。"
+    },
+    {
+        "id": "24",
+        "name": "log",
+        "userId": "FGGACKX3",
+        "genre": "動く系",
+        "image": "src/assets/cards/FGGACKX3.png",
+        "description": "愛"
+    },
+    {
+        "id": "25",
+        "name": "油",
+        "userId": "EUDA2FD3",
+        "genre": "動く系",
+        "image": "src/assets/cards/EUDA2FD3.png",
+        "description": "はつみちゃんが可愛く踊ります"
+    },
+    {
+        "id": "26",
+        "name": "ネルカ",
+        "userId": "DP62ZWJW",
+        "genre": "動く系",
+        "image": "src/assets/cards/DP62ZWJW.png",
+        "description": "広が手毬をプロデュースしています。そんな感じの1枚"
+    },
+    {
+        "id": "27",
+        "name": "えるふわ",
+        "userId": "D6H7HH2R",
+        "genre": "動く系",
+        "image": "src/assets/cards/D6H7HH2R.png",
+        "description": "せなことはいいぞ（ことせなもいいぞ）"
+    },
+    {
+        "id": "28",
+        "name": "おうる",
+        "userId": "CVGFENNE",
+        "genre": "動く系",
+        "image": "src/assets/cards/CVGFENNE.png",
+        "description": "こんにちはこんばんは\nいつも親愛度コミュの配信楽しみに見させて頂いております!\n\n新参会長Ｐです。\n今までアイマスシリーズに一切触れたことがなかったのですが、スターマインのライブがとても素敵だなと感じてべグラツィアガチャから学マスを始めました!\n名刺で動いているスターマインのこの場面の会長が特に好きすぎて、リピートで何度も見れるように動画をはめ込みました!\n生徒会の皆の身長差をプロフ通りに頑張ってできるだけ合わせている所がこだわりポイントです!\n\nこれからも配信楽しみにしております!!!"
+    },
+    {
+        "id": "29",
+        "name": "鬼門",
+        "userId": "CPD9C98N",
+        "genre": "動く系",
+        "image": "src/assets/cards/CPD9C98N.png",
+        "description": "シンプルに、初星を誇りに持って"
+    },
+    {
+        "id": "30",
+        "name": "斗涙つつじ",
+        "userId": "AUXTNGVV",
+        "genre": "動く系",
+        "image": "src/assets/cards/AUXTNGVV.png",
+        "description": "はじめて動かしてみました♪\nもう　いっぱいいっぱいいっぱいいっぱい脂が食べたい♪まずちょっとだけ探ってみよう、私の名刺好き？嫌い？"
+    },
+    {
+        "id": "31",
+        "name": "橘 蘭桜",
+        "userId": "AG78D4YX",
+        "genre": "動く系",
+        "image": "src/assets/cards/AG78D4YX.png",
+        "description": "広千奈Pです！！！"
+    },
+    {
+        "id": "32",
+        "name": "かまかま",
+        "userId": "9A595CQZ",
+        "genre": "動く系",
+        "image": "src/assets/cards/9A595CQZ.png",
+        "description": "カスタム名刺を作るのは初めてでしたが、手毬の曲が実際に再生されているような雰囲気に出来るよう頑張りました！よろしくお願いします！"
+    },
+    {
+        "id": "33",
+        "name": "タクヤ",
+        "userId": "72J37J2S",
+        "genre": "動く系",
+        "image": "src/assets/cards/72J37J2S.png",
+        "description": "もっと出来ると思いますが、一旦これで。\n清夏ちゃんの可愛いを詰め込みました、お手柔らかに、何卒よろしくお願いします"
+    },
+    {
+        "id": "34",
+        "name": "てまりなみ",
+        "userId": "5WXQEZJ9",
+        "genre": "動く系",
+        "image": "src/assets/cards/5WXQEZJ9.png",
+        "description": "いちばんかわいいとおもいます"
+    },
+    {
+        "id": "35",
+        "name": " kk NEX",
+        "userId": "4K7YCQS9",
+        "genre": "動く系",
+        "image": "src/assets/cards/4K7YCQS9.png",
+        "description": "水着姿なのは他意は無いです　姉の成長記録を取るのは弟の義務です。"
+    },
+    {
+        "id": "36",
+        "name": "カシコ",
+        "userId": "4K2D4FCK",
+        "genre": "動く系",
+        "image": "src/assets/cards/4K2D4FCK.png",
+        "description": "スモック衣装にゲーミング発光するP名刺です！\n嫌そうな表情のサポカがあることねが悪い！！\n突貫で作った割にはソコソコ良くできました！\n\nPS:映像を水着あさり先生にするかちょっと悩んだけど、私の良心が勝ちました(^^)"
+    },
+    {
+        "id": "37",
+        "name": "taki",
+        "userId": "ZWQNNCC4",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/ZWQNNCC4.png",
+        "description": "シンプルなやつですが気に入ってるので投稿します！担当の広美鈴の可愛い画像とかスタンプを詰め込みました！"
+    },
+    {
+        "id": "38",
+        "name": "一般月村P",
+        "userId": "ZD8NMNLV",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/ZD8NMNLV.png",
+        "description": "アイドルマスター20周年曲 アイ NEED YOUをイメージして作りました。"
+    },
+    {
+        "id": "39",
+        "name": "みどりざか",
+        "userId": "YBPZ4KHG",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/YBPZ4KHG.png",
+        "description": "まんまるかわいいまおまおさん。このいきものは、たぶん初星学園に住んでいるのです。"
+    },
+    {
+        "id": "40",
+        "name": "んなん",
+        "userId": "Y9JLVDU8",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/Y9JLVDU8.png",
+        "description": "個人的な好きを全力で盛り込んだ名刺です！\n当然会長推しですが、下にいる清夏と手毬も推しです、、！好きなサポカ、好きなPアイドル、好きなキャラ全部使った名刺です〜♡\n一応手毬バージョンの名刺もあります🫣"
+    },
+    {
+        "id": "41",
+        "name": "keinn（ケイン）",
+        "userId": "Y49AURN4",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/Y49AURN4.png",
+        "description": "君の知らない物語に脳を焼かれて幾星霜…莉波お姉ちゃんの織姫様衣装が見たいですわ〜！"
+    },
+    {
+        "id": "42",
+        "name": "きょぷ",
+        "userId": "Y2XH8QHK",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/Y2XH8QHK.png",
+        "description": "ことねとpが今までの写真を見ながら、思い出を振り返る感じをイメージしました。"
+    },
+    {
+        "id": "43",
+        "name": "ちゃんた",
+        "userId": "XHXGEQVV",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/XHXGEQVV.png",
+        "description": "プリンス麻央アルティメットレヴォリューションファイナル！"
+    },
+    {
+        "id": "44",
+        "name": "まつきあん",
+        "userId": "WRCHDV7A",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/WRCHDV7A.png",
+        "description": "もともと各種コンテンツの実績イキリ用名刺を作ろうとしていましたが，気づいたら思想になっていました．"
+    },
+    {
+        "id": "45",
+        "name": "Koura",
+        "userId": "VB8LNKZE",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/VB8LNKZE.png",
+        "description": "まだ初めて2ヶ月程ですが手毬を推していこうと思います！"
+    },
+    {
+        "id": "46",
+        "name": "cont",
+        "userId": "UVPWXDY8",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/UVPWXDY8.png",
+        "description": "みんな一緒に美鈴に取り込まれましょう"
+    },
+    {
+        "id": "47",
+        "name": "そーと",
+        "userId": "TV495U9G",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/TV495U9G.png",
+        "description": "千奈ちゃんの魅力的でめちゃかわな表情をテーマにしました！これを見て千奈ちゃんにハマる人が一人でも増えてほしいです。"
+    },
+    {
+        "id": "48",
+        "name": "かいじん(学マス内のなまえはモモンガです)",
+        "userId": "SPMPMN53",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/SPMPMN53.png",
+        "description": "初めてA+取れた時に作ったやつです。もうどれほど前なのやら...とにかくことねのビジュを重視して作りました。"
+    },
+    {
+        "id": "49",
+        "name": "ぽっちま",
+        "userId": "SHGA6B4C",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/SHGA6B4C.png",
+        "description": "うちのまりちゃんが世界一‼️"
+    },
+    {
+        "id": "50",
+        "name": "玉。P",
+        "userId": "R4YAMYS5",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/R4YAMYS5.png",
+        "description": "葛城リーリヤに対する愛を自分なりにスタイリッシュになるように詰め込みました！！"
+    },
+    {
+        "id": "51",
+        "name": "緑桜餅",
+        "userId": "QGW8UTDA",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/QGW8UTDA.png",
+        "description": "サマーマって結局なんなんすかね？"
+    },
+    {
+        "id": "52",
+        "name": "ひび",
+        "userId": "PQL34DFA",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/PQL34DFA.png",
+        "description": "陽なる品格を気高さに。真っ白な未来をその手で掴む。導きの一番星。"
+    },
+    {
+        "id": "53",
+        "name": "わくみず",
+        "userId": "PHC2Y3WF",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/PHC2Y3WF.png",
+        "description": "名刺実装のタイミングでフォーマットを作り使い続けている名刺です。\n千奈ちゃんの新しいライブ、新しい姿を写真に収める度に徐々に増える写真が、共に歩みプロデュースを続けてきた証になっています。\n千奈ちゃんの見ている景色は色鮮やかなものである為、カラフルなホログラムチックな仕上がりにしているのがポイントです。\n\n他のプロデューサーさんのこだわりの詰まった名刺楽しみにしています。\n\nここから先は読むかおまかせします。\n名刺を更新したら自分のXアカウント(@wakumizu_09)の固定ポストに名刺を投稿するようにしているのですが、その際ツリーに過去更新した分を貼り付けることにしているので、そこで変化を見ていただけると思います。\n\n\n確認よろしくお願いします。"
+    },
+    {
+        "id": "54",
+        "name": "ルルシャルP",
+        "userId": "PHABX7SH",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/PHABX7SH.png",
+        "description": "清夏の愛　詰め込みました！"
+    },
+    {
+        "id": "55",
+        "name": "ひで",
+        "userId": "P8T8U2FT",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/P8T8U2FT.png",
+        "description": "ぜんぶ可愛いんだけどサマーマのピースカットがダントツで可愛きてお気に入りなので作成しました！\nことね好きが伝わればいいな✨"
+    },
+    {
+        "id": "56",
+        "name": "ヨグ",
+        "userId": "P2RF7PUC",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/P2RF7PUC.png",
+        "description": "こ     と     せ     な"
+    },
+    {
+        "id": "57",
+        "name": "坂道のぼる",
+        "userId": "N83VM2WU",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/N83VM2WU.png",
+        "description": "花海佑芽担当、花海姉妹推しPです！Star-mineの退場時「お手振り佑芽ちゃん」が大好きで、動く名刺にしました！ポイントは、①ばくおんライオン＆テクノドッグシリーズ（可愛い好き）、②ハートの中に映る【お姉ちゃんと一緒にいる時】の佑芽ちゃん、③Star-mine完凸衣装（復刻したので、もうそんなに珍しくないかも？）です！ いつもそばにいるお姉ちゃん、大好きなお姉ちゃん、そんなお姉ちゃんを超えたいという佑芽ちゃんの「つよつよ最強」な名刺、お気に入りです🥳"
+    },
+    {
+        "id": "58",
+        "name": "麻゛の呼吸の使い手、一般配信者",
+        "userId": "M49Y6C9K",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/M49Y6C9K.png",
+        "description": "見てください、このさくら餅(有村麻央の顔)。\nおそらく三食団子のピンク色の部分を食べているんですが(残っているお餅が白と緑なため)\n三食団子の3つの色それぞれの意味を知っていますか？\nいくつか説はありますが今回は3色すべてで”春”を表しているというものを使用します。\nピンク：桜、白：白酒（お祝いの席で飲まれる酒）、緑：ヨモギ\n何を言いたいか、桜は花です。花＝華。有村麻央には華がある。\n\nありがとうございました。"
+    },
+    {
+        "id": "59",
+        "name": "フサギコ",
+        "userId": "LZMT5M9M",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/LZMT5M9M.png",
+        "description": "シンプルイズベスト。お前をトップアイドルにしてやる、というシンプルな決意を込めて"
+    },
+    {
+        "id": "60",
+        "name": "らむさん太郎。",
+        "userId": "LGXL85HB",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/LGXL85HB.png",
+        "description": "シンプルなので真似しやすくオシャレだと自負しているので応募いたしました！よろしくお願いいたします🙏"
+    },
+    {
+        "id": "61",
+        "name": "Fool",
+        "userId": "KZFXYFAS",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/KZFXYFAS.png",
+        "description": "リーリヤ愛を詰められるだけ詰めてみました。あとちょっとしたお遊びも混ぜてみました"
+    },
+    {
+        "id": "62",
+        "name": "ぽっけ",
+        "userId": "JF7B69TF",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/JF7B69TF.png",
+        "description": "千奈ちゃんへの愛を全力で込めるために図形と戦いました！レイヤーは99個です！！！！！！！！！（くるみさん、いっぱい好き💜）"
+    },
+    {
+        "id": "63",
+        "name": "ちあき",
+        "userId": "JBMGRLDY",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/JBMGRLDY.png",
+        "description": "有村麻央はいいぞ"
+    },
+    {
+        "id": "64",
+        "name": "アラン",
+        "userId": "HAVJ25MZ",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/HAVJ25MZ.png",
+        "description": "ことねを推していて、がむしゃらに行こう！を引き、その後手毬が20連で出たので、Re:IRISで名刺作れるじゃん！という思いから作成しました。"
+    },
+    {
+        "id": "65",
+        "name": "愛音",
+        "userId": "GXH3FSSH",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/GXH3FSSH.png",
+        "description": "応募失礼します！\nライブシーンをトレースして作ってます！\n\n企画していただきありがとうございます😭\n名刺勢増えることを期待しております。"
+    },
+    {
+        "id": "66",
+        "name": "千代倉こはる",
+        "userId": "GMT6G87C",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/GMT6G87C.png",
+        "description": "可愛いでしょ？？？？？？"
+    },
+    {
+        "id": "67",
+        "name": "tike",
+        "userId": "G2TFMQU5",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/G2TFMQU5.png",
+        "description": "ほらね"
+    },
+    {
+        "id": "68",
+        "name": "サンドリヨン",
+        "userId": "FSKNSZWH",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/FSKNSZWH.png",
+        "description": "莉波お姉ちゃんの A+ を初めて取ったときに記念に作った名刺に少しづつ手を加えて今の形になりました。手毬・麻央Pなのですがこの名刺がとても気に入ってるので変えれないまま今に至ってます。"
+    },
+    {
+        "id": "69",
+        "name": "レイ",
+        "userId": "F4AL3KAJ",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/F4AL3KAJ.png",
+        "description": "咲季ちゃんはかわいい"
+    },
+    {
+        "id": "70",
+        "name": "九条",
+        "userId": "ED439H53",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/ED439H53.png",
+        "description": "昨年作ったものになりますが、もうすぐバレンタインなので可愛い咲季を見てください💓\nちょっとシークバーが動いていたり、気合いで題名を作ったりしたところが特徴です！"
+    },
+    {
+        "id": "71",
+        "name": "紅めがね",
+        "userId": "E2M2RLWV",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/E2M2RLWV.png",
+        "description": "ことねかわいいよことね\nもっとことねを詰め込みたいけどセンスないので上手くいかなかった"
+    },
+    {
+        "id": "72",
+        "name": "チューやん",
+        "userId": "E2HK5GSL",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/E2HK5GSL.png",
+        "description": "YouTubeで名刺の作り方の動画を見ながら作りました。名刺に動画を入れて燕ちゃんをカッコよく見せようと頑張りました。"
+    },
+    {
+        "id": "73",
+        "name": "mensore",
+        "userId": "DXV76YQT",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/DXV76YQT.png",
+        "description": "ジャーニー、可愛いですよね"
+    },
+    {
+        "id": "74",
+        "name": "パープル",
+        "userId": "DMMN8GCY",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/DMMN8GCY.png",
+        "description": "「限定は引いておけ」は罠"
+    },
+    {
+        "id": "75",
+        "name": "アギト",
+        "userId": "CJY4NW2T",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/CJY4NW2T.png",
+        "description": "当日設定し忘れて学マスのキャラの名刺になってなかったらごめんなさい！"
+    },
+    {
+        "id": "76",
+        "name": "SHUN",
+        "userId": "C9TAEBEE",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/C9TAEBEE.png",
+        "description": "デレステからアイマスに入った蒼色担当P(千早、しぶりん、灯織)兼学マス手毬担当Pです。誕生日ライブ手毬ビジュがカッコ良すぎて、誕生日ライブで嬉しすぎて暴れたのでその想いを名刺デザインに活かしました。シンプルではありますが宜しくお願いします。"
+    },
+    {
+        "id": "77",
+        "name": "かなちゃん",
+        "userId": "ABFG3DWM",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/ABFG3DWM.png",
+        "description": "がんばり…ます！"
+    },
+    {
+        "id": "78",
+        "name": "ダイスケイエス",
+        "userId": "A3DV29S7",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/A3DV29S7.png",
+        "description": "学マス友達増やしたいです"
+    },
+    {
+        "id": "79",
+        "name": "とらもも",
+        "userId": "9YX9534G",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/9YX9534G.png",
+        "description": "シンプルイズベスト！(レイヤー数75)"
+    },
+    {
+        "id": "80",
+        "name": "ひすいちやん",
+        "userId": "9R7SQT8C",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/9R7SQT8C.png",
+        "description": "カラ鉄コラボVer.2の麻央です。左目にかかっている髪の色の調整が一番大変でした"
+    },
+    {
+        "id": "81",
+        "name": "ドドドメテオ",
+        "userId": "8HNXRGFZ",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/8HNXRGFZ.png",
+        "description": "ことね千奈広リーリヤPです。ことねと広の強化月間がんばれなかったのをたいへん後悔しています。辛いです。"
+    },
+    {
+        "id": "82",
+        "name": "じんすけ",
+        "userId": "8DYRU3LB",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/8DYRU3LB.png",
+        "description": "佑芽と一緒にこれからも"
+    },
+    {
+        "id": "83",
+        "name": "いくる",
+        "userId": "7YMQA2UQ",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/7YMQA2UQ.png",
+        "description": "Still Yours（ちょっと読みづらいかも）とは　時間が経っても、想いはあなたのまま変わらない。\nあなたのままでは何も求めず、あなたのままであり続ける気持ち。\n（他の人のテンプレートを使っているので、もし被っていたらごめんなさい）"
+    },
+    {
+        "id": "84",
+        "name": "yukkunn",
+        "userId": "7EC5HZNA",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/7EC5HZNA.png",
+        "description": "シンプルな名刺を目指しました。プロデューサーの道は果てしなく、自分はまだまだ未熟者。それでもアイドルと共に一番星を目指す姿勢を名刺に落とし込めていたらと思います。突然ですがここで問題です。私の担当は誰でしょう。ヒントは左上と写真の手です。"
+    },
+    {
+        "id": "85",
+        "name": "犬千代",
+        "userId": "6UUMBHZW",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/6UUMBHZW.png",
+        "description": "くるみさんが前に作っていた名刺を元に作った黒咲ッズ名刺です！"
+    },
+    {
+        "id": "86",
+        "name": "世界が終わるまでは",
+        "userId": "4ZWUY3XG",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/4ZWUY3XG.png",
+        "description": "ボーイ・ミーツ・ガール！！！！"
+    },
+    {
+        "id": "87",
+        "name": "川のセセラギ",
+        "userId": "3CUAGQCM",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/3CUAGQCM.png",
+        "description": "広ちゃんの可愛さが詰まった名刺だと思います！"
+    },
+    {
+        "id": "88",
+        "name": "5d",
+        "userId": "2CQM3HJR",
+        "genre": "可愛い系、キレイ系",
+        "image": "src/assets/cards/2CQM3HJR.png",
+        "description": "ドゥン咲季が可愛くて作っちゃいました！\nドリンクをループさせるの無駄に頑張ってます"
+    },
+    {
+        "id": "89",
+        "name": "彼方",
+        "userId": "WRPPMXZ6",
+        "genre": "パロディ系",
+        "image": "src/assets/cards/WRPPMXZ6.png",
+        "description": "自己肯定感爆上げしたいので多くの人に見て欲しいです！"
+    },
+    {
+        "id": "90",
+        "name": "ままま",
+        "userId": "WM8WCV4H",
+        "genre": "パロディ系",
+        "image": "src/assets/cards/WM8WCV4H.png",
+        "description": "ドゥンドゥン！"
+    },
+    {
+        "id": "91",
+        "name": "Makarov",
+        "userId": "U2BW77XZ",
+        "genre": "パロディ系",
+        "image": "src/assets/cards/U2BW77XZ.png",
+        "description": "広はコミュでも言われている通り神々しいや不思議な魅力があるのでこういったものにしました。カード柄と右側の空間で目を表現しています。右側の空間の背景は名刺を上下反対にすると漢字で「広」と書いてます。ちなみに、構図は完全にUSAOさんのGlaring Eyesのジャケットのパロディです。"
+    },
+    {
+        "id": "92",
+        "name": "パロディ系",
+        "userId": "QBUH32P6",
+        "genre": "パロディ系",
+        "image": "src/assets/cards/QBUH32P6.png",
+        "description": "名刺でくろさきさん作ってみました！"
+    },
+    {
+        "id": "93",
+        "name": "ミシェル",
+        "userId": "PH4B8AMD",
+        "genre": "パロディ系",
+        "image": "src/assets/cards/PH4B8AMD.png",
+        "description": "グソクムシはレイヤー数の都合上無理でした。かわりにはつみを食べてもらいます。\n"
+    },
+    {
+        "id": "94",
+        "name": "vamta",
+        "userId": "PAV5YWSN",
+        "genre": "パロディ系",
+        "image": "src/assets/cards/PAV5YWSN.png",
+        "description": "シャニマスで担当している大崎甜花ちゃんの推しマスコット兼シャニマスマスコットのデビ太郎を描きました。めっちゃ気合入れて1から描いてる名刺見るとほんと凄いなといつも思います。"
+    },
+    {
+        "id": "95",
+        "name": "とんかつダイエット",
+        "userId": "NUWCAGPU",
+        "genre": "パロディ系",
+        "image": "src/assets/cards/NUWCAGPU.png",
+        "description": ""
+    },
+    {
+        "id": "96",
+        "name": "お冷",
+        "userId": "MFQKLNVT",
+        "genre": "パロディ系",
+        "image": "src/assets/cards/MFQKLNVT.png",
+        "description": "ワールドダイスター 夢のステラリウムのいろはちゃんです。"
+    },
+    {
+        "id": "97",
+        "name": "ゆうとぴあ",
+        "userId": "JAJWX4UL",
+        "genre": "パロディ系",
+        "image": "src/assets/cards/JAJWX4UL.png",
+        "description": "MinecraftのUIっぽいものを作ってみました。\n経験値ゲージは緑の裏に灰色を仕込んでいるので、PLvに合わせて手動で調整可能です。\nハートや空腹ゲージのお肉などの小さなパーツをそれぞれ1レイヤーで再現するのを頑張りました！"
+    },
+    {
+        "id": "98",
+        "name": "蓮治",
+        "userId": "HLP4Q5UP",
+        "genre": "パロディ系",
+        "image": "src/assets/cards/HLP4Q5UP.png",
+        "description": "名刺は…おもちゃじゃないんだぞ！！"
+    },
+    {
+        "id": "99",
+        "name": "河月(かづき)",
+        "userId": "HHGKHPFP",
+        "genre": "パロディ系",
+        "image": "src/assets/cards/HHGKHPFP.png",
+        "description": "初マスター(変更前)にこもって評価値して1位とかも取っていた前垢の意思を受け継いだ名刺です!!名刺の元ネタはホロライブプロダクション所属の百鬼あやめさんのマスコットキャラクターのぽよ余です"
+    },
+    {
+        "id": "100",
+        "name": "Aquatis",
+        "userId": "HALPMNGA",
+        "genre": "パロディ系",
+        "image": "src/assets/cards/HALPMNGA.png",
+        "description": "misuzu kawaii "
+    },
+    {
+        "id": "101",
+        "name": "でら",
+        "userId": "GJPCMLYE",
+        "genre": "パロディ系",
+        "image": "src/assets/cards/GJPCMLYE.png",
+        "description": "ペルソナッ…！"
+    },
+    {
+        "id": "102",
+        "name": "霧雨霊夢",
+        "userId": "FB8S5R5Q",
+        "genre": "パロディ系",
+        "image": "src/assets/cards/FB8S5R5Q.png",
+        "description": "星のカービィシリーズのミニゲームである、刹那の見切りを再現してみました。\nちなみに、上下のバチっとしている光はPアイテムのススキで作っています。"
+    },
+    {
+        "id": "103",
+        "name": "キシボタ",
+        "userId": "EY5PVMNH",
+        "genre": "パロディ系",
+        "image": "src/assets/cards/EY5PVMNH.png",
+        "description": "シャドウバースちいかわコラボスキンをモデルに表現の基本を進化させました。\nちょっと抜けてるちいかわが選ぶ微妙な進化先にご注目ください。"
+    },
+    {
+        "id": "104",
+        "name": "Nahu",
+        "userId": "BX5JG5P5",
+        "genre": "パロディ系",
+        "image": "src/assets/cards/BX5JG5P5.png",
+        "description": "ツアマス　パラレルカード風名刺です！\nこだわりは左上のコスチュームアイコンです"
+    },
+    {
+        "id": "105",
+        "name": "第6の幸運をもたらす宿",
+        "userId": "6PJDYMHF",
+        "genre": "パロディ系",
+        "image": "src/assets/cards/6PJDYMHF.png",
+        "description": "チェンソーマン レゼ篇から印象的なシーンを名刺で作成しました。細部の色彩やグラデーションにまでこだわった名刺です。"
+    },
+    {
+        "id": "106",
+        "name": "ぷと",
+        "userId": "4UXBQUH2",
+        "genre": "パロディ系",
+        "image": "src/assets/cards/4UXBQUH2.png",
+        "description": "カスタム名刺実装初期から主にパラガスなどを作り続けてきたドラゴンボール名刺勢です\n今回はパラガスではありませんがよろしくお願いします"
+    },
+    {
+        "id": "107",
+        "name": "ゆき",
+        "userId": "4H9JMFPN",
+        "genre": "パロディ系",
+        "image": "src/assets/cards/4H9JMFPN.png",
+        "description": "この顔好きなんですよね"
+    },
+    {
+        "id": "108",
+        "name": "ザリガニ",
+        "userId": "3W73TDV3",
+        "genre": "パロディ系",
+        "image": "src/assets/cards/3W73TDV3.png",
+        "description": "こんな名刺作って遊んでます(名刺ジャンル変更のために一度送りましたが再送しました)"
+    },
+    {
+        "id": "109",
+        "name": "りゅうた",
+        "userId": "ZD85BVJW",
+        "genre": "その他",
+        "image": "src/assets/cards/ZD85BVJW.png",
+        "description": "燕のお誕生日曲とか生誕ミニライブとかで埋まる予定。ホントはもっと詰め込みたい。"
+    },
+    {
+        "id": "110",
+        "name": "マキト",
+        "userId": "Z5A2QEFY",
+        "genre": "その他",
+        "image": "src/assets/cards/Z5A2QEFY.png",
+        "description": "雑誌の表紙をイメージ"
+    },
+    {
+        "id": "111",
+        "name": "頭の中幼稚園児",
+        "userId": "V97C6SEK",
+        "genre": "その他",
+        "image": "src/assets/cards/V97C6SEK.png",
+        "description": "よくわからないけど、なんか、よくわからないですね。つまり、何にもわかってない名刺です。"
+    },
+    {
+        "id": "112",
+        "name": "はるる たいよう",
+        "userId": "V7MU35DK",
+        "genre": "その他",
+        "image": "src/assets/cards/V7MU35DK.png",
+        "description": "どうも、名刺鯖から爆撃しに来ました。"
+    },
+    {
+        "id": "113",
+        "name": "ガスト 秋葉原駅前店",
+        "userId": "TB57HJAQ",
+        "genre": "その他",
+        "image": "src/assets/cards/TB57HJAQ.png",
+        "description": "当日お見せするのは、うーたんではありません(多分)"
+    },
+    {
+        "id": "114",
+        "name": "虎杖悠仁",
+        "userId": "ND25CP5J",
+        "genre": "その他",
+        "image": "src/assets/cards/ND25CP5J.png",
+        "description": "燐羽を無理矢理入れました。(コラみたいなってすまん。)"
+    },
+    {
+        "id": "115",
+        "name": "きんじ",
+        "userId": "KBZJ3NR2",
+        "genre": "その他",
+        "image": "src/assets/cards/KBZJ3NR2.png",
+        "description": "担当の広のコントラストを意識して作成した名刺です！\n今までもこれからも ままならない日々を広と共に！！"
+    },
+    {
+        "id": "116",
+        "name": "ごもムリン　名刺嗜み",
+        "userId": "FZDGY829",
+        "genre": "その他",
+        "image": "src/assets/cards/FZDGY829.png",
+        "description": "よろしくおねがいします!!"
+    },
+    {
+        "id": "117",
+        "name": "だいこんきんぐ",
+        "userId": "EWRN7VAT",
+        "genre": "その他",
+        "image": "src/assets/cards/EWRN7VAT.png",
+        "description": "咲季ちゃんが、ビルのデカい広告に掲載されてほしい！！！という気持ちで作りました。"
+    },
+    {
+        "id": "118",
+        "name": "みこたん",
+        "userId": "ECG2F9X9",
+        "genre": "その他",
+        "image": "src/assets/cards/ECG2F9X9.png",
+        "description": "前回の名刺作成配信を視聴し感化されました。"
+    },
+    {
+        "id": "119",
+        "name": "ズミ",
+        "userId": "E6YKLBCG",
+        "genre": "その他",
+        "image": "src/assets/cards/E6YKLBCG.png",
+        "description": "寿司ざんまい。適当ですみません～"
+    },
+    {
+        "id": "120",
+        "name": "みみみ",
+        "userId": "DTXRSLVS",
+        "genre": "その他",
+        "image": "src/assets/cards/DTXRSLVS.png",
+        "description": "なんかの作品系をよく作ってます　おてて柔らかに、生暖かい目でお願いします"
+    },
+    {
+        "id": "121",
+        "name": "そら",
+        "userId": "9CNQCKRL",
+        "genre": "その他",
+        "image": "src/assets/cards/9CNQCKRL.png",
+        "description": "この企画を見て初めて作った名刺です！\n他の方々には劣るかと思いますが思い出として提出させていただきます🥺🤍"
+    },
+    {
+        "id": "122",
+        "name": "田中かなた",
+        "userId": "8HAQMK75",
+        "genre": "その他",
+        "image": "src/assets/cards/8HAQMK75.png",
+        "description": "A型を発狂させに来ました"
+    },
+    {
+        "id": "123",
+        "name": "ふぇす",
+        "userId": "5FHQG86A",
+        "genre": "動く系",
+        "image": "src/assets/cards/5FHQG86A.png",
+        "description": "（当日までに新しく作り直すと思うので……その際は再投稿しますね！）\n「The Cute!!!」を通して人間・藤田ことねの覚悟と矜持に惚れて、ことね担当Pになった頃に作った名刺。キービジュアルをポラロイド写真風にした上でレイアウトしました！"
+    }
+]
