@@ -41,7 +41,7 @@ function App() {
           <article key={card.id} className="card">
             <div className="card-image-wrapper">
               <img
-                src={card.image.startsWith('http') ? card.image : (card.image.startsWith('/src') ? card.image : `/` + card.image)}
+                src={card.image.startsWith('http') ? card.image : (import.meta.env.BASE_URL + card.image).replace(/\/+/g, '/')}
                 alt={card.name}
                 className="card-image"
               />
