@@ -5,6 +5,13 @@ import './index.css'
 
 function App() {
   const [selectedGenre, setSelectedGenre] = useState('All')
+  const [copiedId, setCopiedId] = useState(null)
+
+  const handleCopy = (userId) => {
+    navigator.clipboard.writeText(userId)
+    setCopiedId(userId)
+    setTimeout(() => setCopiedId(null), 2000)
+  }
 
   // ジャンルの一覧を取得（重複排除）
   const genres = useMemo(() => {
@@ -55,7 +62,14 @@ function App() {
                 <h2 className="user-name">{card.name}</h2>
                 <span className="genre-badge">{card.genre}</span>
               </div>
-              <p className="user-id">{card.userId}</p>
+              <div
+                className={`user-id-wrapper ${copiedId === card.userId ? 'copied' : ''}`}
+                onClick={() => handleCopy(card.userId)}
+                title="Click to copy ID"
+              >
+                <p className="user-id">{card.userId}</p>
+                <span className="copy-feedback">Copied!</span>
+              </div>
             </div>
           </article>
         ))}
